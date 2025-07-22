@@ -1,7 +1,8 @@
 name: "diffUSE"
 description: "This is the official web page for The Diffuse Initiative"
 
-url: "http://diffuse.science"
+url: "https://goop111.github.io"
+baseurl: ""  
 
 paginate: 5
 plugins: [jekyll-paginate]
@@ -45,6 +46,3 @@ collections:
                 output: true
         tags:
                 output: true
-
-
-yaml<br>url: "https://goop111.github.io"<br>baseurl: "/labwebsite.github.io"   # <-- no trailing slash<br>
