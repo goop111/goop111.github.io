@@ -1,5 +1,5 @@
 ---
-title: Join the Fraser Lab
+title: Join The Diffuse Initiative
 layout: default
 group: join
 ---
